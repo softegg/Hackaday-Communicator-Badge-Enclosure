@@ -1,6 +1,8 @@
 ## Hackaday Supercon 2025 / Hackaday Berlin 2026 "Communicator" Badge Enclosure 
 **by Tina Belmont (SoftEgg)**
 
+![Render of flying communicator badge](Renders/Tina's%20Communicator%20Enclosure%201.0%20Front%20Bottom%20perspective%20with%20switch.png)
+
 This is a set of 3d models for a badge enclosure for the "Communicator" meshtastic badge for Hackaday Supercon 2025. This badge will also be used for Hackaday Berlin 2026 around April or March, so please enjoy it there too!
 
 I have included the original Autodesk Fusion 360 File, as well as STL and STEP files for all models.
